@@ -1,0 +1,9 @@
+.metadata/
+.settings/
+target/
+docs/
+.classpath
+.project
+src/main/java/ie/dcu/cngl/json
+src/main/java/ie/dcu/cngl/server
+bin/
